@@ -1,0 +1,45 @@
+* {
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+body {
+  background-color: #43C2E5;
+}
+
+
+
+.form {
+  text-align: center;
+  width: 500px;
+  padding: 20px;
+  background-color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h2 {
+  text-align: left;
+  margin-left: 25px;
+  font-size: 30px;
+  color: #4fb5ce;
+}
+
+input {
+  margin: 20px 0;
+  width: 400px;
+  padding: 10px;
+}
+
+.button {
+  width: 400px;
+  background-color: #43C4E7;
+  border-color: #43C4E7;
+  border-style: hidden;
+  color: white;
+}
